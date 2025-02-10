@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Mauricio Gavilan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje;Siempre+explorando+nuevas+tecnolog%C3%ADas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Desarrollador+Backend y QA Automation;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje;Siempre+explorando+nuevas+tecnolog%C3%ADas)](https://git.io/typing-svg)
 
 ---
 
